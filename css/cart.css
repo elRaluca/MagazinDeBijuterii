@@ -1,0 +1,61 @@
+.title-cart {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: -60px;
+  margin: 10px;
+}
+.cart-items {
+  background-color: gray;
+  margin: 10px;
+  padding: 10px;
+}
+
+.cart {
+  display: flex;
+  margin-left: 5%;
+}
+.change-item {
+  align-items: center;
+  display: flex;
+  margin-left: 25%;
+}
+.decrease,
+.quantity,
+.increase {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 23px;
+  margin: 10px;
+}
+
+.decrease:hover,
+.increase:hover {
+  color: #e1bf00b2;
+}
+
+.remove {
+  background-color: red;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 23px;
+  margin: auto;
+}
+
+.remove:hover {
+  background-color: rgb(98, 2, 2);
+}
+
+.total-price {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.product-card a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crystal Crown</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/admin.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Montserrat:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="navbar flex justify-around items-center">
+        <div class="home">
+          <a href="../index.html">Home</a>
+        </div>
+
+        <div class="logo">
+          <img src="../images/logo.png" />
+        </div>
+        <div class="admin">
+          <a href="admin.html">Admin</a>
+        </div>
+        <div class="cart">
+          <a href="cart.html">
+            <i class="fa-solid fa-cart-shopping"></i>
+          </a>
+        </div>
+      </div>
+      <div class="title-admin">
+        <h1>Add New Porduct</h1>
+      </div>
+
+      <div class="main">
+        <div class="container-main">
+          <button id="show-form-btn">Add And Edit Product</button>
+
+          <!-- Wrap the form in a div that we can toggle visibility -->
+          <div id="form-container" style="display: none">
+            <form id="product-form">
+              <div>
+                <label for="name">Product name</label>
+                <input type="text" id="name" />
+              </div>
+              <div>
+                <label for="price">Price</label>
+                <input type="number" id="price" />
+              </div>
+              <div>
+                <label for="image-url">Image Url</label>
+                <input type="text" id="image-url" />
+              </div>
+              <div>
+                <label for="details">Details</label>
+                <input type="text" id="details" />
+              </div>
+              <div>
+                <label for="category">Category</label>
+                <input type="text" id="category" />
+              </div>
+              <button id="save-btn">Save product</button>
+            </form>
+          </div>
+        </div>
+
+        <table id="products-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Price</th>
+              <th>Image</th>
+              <th>Details</th>
+              <th>Category</th>
+              <th>Edit</th>
+              <th>Delete</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="footer"></div>
+    </div>
+    <script type="module" src="../js/admin.js"></script>
+  </body>
+</html>

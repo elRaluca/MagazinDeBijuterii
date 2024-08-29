@@ -1,0 +1,95 @@
+.main {
+  padding: 40px;
+}
+
+.title-admin {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: -60px;
+}
+
+.container-main {
+  display: flex;
+}
+
+form {
+  background-color: gray;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+  width: 500px;
+}
+
+form div {
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+}
+
+form div input {
+  border: 3px solid #dcdcdc;
+  padding: 5px;
+  font-size: 20px;
+  outline: none;
+}
+
+form div label {
+  margin-bottom: 5px;
+}
+
+form > button {
+  border: none;
+  background-color: #ffd9006a;
+  width: 200px;
+  padding: 10px;
+  font-size: 20px;
+  align-items: center;
+  margin: 0 auto;
+}
+form > button:hover {
+  background-color: #000080;
+  color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: gray;
+  font-size: 20px;
+}
+
+table,
+th,
+td {
+  border: 2px solid #c8c2c2;
+}
+
+td,
+th {
+  padding: 10px;
+}
+
+#icon-edit {
+  background: transparent;
+  border: none;
+  font-size: 25px;
+}
+
+#icon-delete {
+  background: transparent;
+  border: none;
+  font-size: 25px;
+}
+
+#show-form-btn {
+  background-color: #ff0000;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+}

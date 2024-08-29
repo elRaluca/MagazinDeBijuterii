@@ -1,0 +1,132 @@
+:root {
+  --primary-bg-color: #ababaa;
+  --primary-text-color: black;
+  --secondary-color: #c08261;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+}
+
+.flex {
+  display: flex;
+}
+.justify-around {
+  justify-content: space-around;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.items-center {
+  align-items: center;
+}
+
+.navbar {
+  background-color: black;
+  height: 60px;
+  text-decoration: none;
+}
+
+.gap-5 {
+  gap: 5px;
+}
+.gap-50 {
+  gap: 50px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+.p-70 {
+  padding: 70px;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+.lista-fav i,
+.cart i {
+  color: white;
+}
+
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #e1bf00b2;
+}
+.logo img {
+  margin-top: 29px;
+  width: 150px;
+}
+
+.main-first-page h1 {
+  text-align: center;
+  font-size: 190px;
+  font-family: "Dancing Script", cursive;
+  margin: 0;
+}
+
+.main-first-page p {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Dancing Script", cursive;
+  width: 600px;
+  white-space: normal;
+  word-break: break-word;
+  margin: 0 auto;
+}
+
+.main-first-page img {
+  position: absolute;
+  width: 180px;
+  margin-top: 100px;
+  margin-left: 20px;
+  transform: rotate(-55deg);
+}
+
+.second-page h1 {
+  text-align: center;
+  font-size: 190px;
+  font-family: "Dancing Script", cursive;
+  margin: 0;
+}
+
+.felx-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-card {
+  background-color: #ffffff;
+  border: 5px solid #dcdcdc;
+  width: 200px;
+  text-align: center;
+}
+.product-card img {
+  width: 150px;
+  height: 150px;
+}
+
+.card-price {
+  color: #000000;
+  font-weight: 500;
+}
+
+.w-200 {
+  width: 200px;
+}
+
+.details a {
+  text-decoration: none;
+  color: black;
+  background-color: #a39f9f;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+.details a:hover {
+  background-color: #e1bf00b2;
+}

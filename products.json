@@ -1,0 +1,271 @@
+[
+  {
+    "id": "1",
+    "name": "Brățară Aur 14K",
+    "price": 1200,
+    "imageUrl": "images/brataraAur114k.png",
+    "details": "Brățară elegantă din aur de 14K, perfectă pentru orice ocazie. Lungime: 18 cm. Greutate: 5 grame.",
+    "category": "Brățări",
+    "stoc": 10
+  },
+  {
+    "id": "2",
+    "name": "Inel cu diamant",
+    "price": 4500,
+    "imageUrl": "images/inelDiamant.png",
+    "details": "Inel de logodnă cu diamant de 0.5 carate, montat pe o bandă de aur alb de 18K. Mărime reglabilă.",
+    "category": "Inele",
+    "stoc": 10
+  },
+  {
+    "id": "3",
+    "name": "Cercei Perle",
+    "price": 750,
+    "imageUrl": "images/cerceiPerla.png",
+    "details": "Cercei eleganți cu perle naturale, fixați pe monturi de argint 925. Perfecți pentru ocazii speciale.",
+    "category": "Cercei",
+    "stoc": 10
+  },
+  {
+    "id": "4",
+    "name": "Colier Safir",
+    "price": 2200,
+    "imageUrl": "images/colierSafir.png",
+    "details": "Colier rafinat cu pandantiv din safir albastru, montat pe lanț din aur galben de 14K. Lungime: 45 cm.",
+    "category": "Coliere",
+    "stoc": 10
+  },
+  {
+    "id": "5",
+    "name": "Broșă Vintage",
+    "price": 500,
+    "imageUrl": "images/brosaVintige.png",
+    "details": "Broșă vintage cu design floral, decorată cu cristale Swarowski și email colorat. Dimensiuni: 4x3 cm.",
+    "category": "Broșe",
+    "stoc": 10
+  },
+  {
+    "id": "6",
+    "name": "Brățară cu Perle",
+    "price": 950,
+    "imageUrl": "images/brataraPerle.png",
+    "details": "Brățară elegantă cu perle naturale și montură din argint 925.",
+    "category": "Brățări",
+    "stoc": 10
+  },
+  {
+    "id": "7",
+    "name": "Inel Aur Roz",
+    "price": 3500,
+    "imageUrl": "images/inelRoz.png",
+    "details": "Inel din aur roz de 18K cu design modern și diamante mici.",
+    "category": "Inele",
+    "stoc": 10
+  },
+  {
+    "id": "8",
+    "name": "Cercei Argint și Opal",
+    "price": 600,
+    "imageUrl": "images/cerceiOpal.png",
+    "details": "Cercei din argint 925 cu pietre opal colorate.",
+    "category": "Cercei",
+    "stoc": 10
+  },
+  {
+    "id": "9",
+    "name": "Colier Rubin",
+    "price": 1800,
+    "imageUrl": "images/colierRubin.png",
+    "details": "Colier din aur galben de 14K cu pandantiv rubin.",
+    "category": "Coliere",
+    "stoc": 10
+  },
+  {
+    "id": "10",
+    "name": "Broșă Fluture",
+    "price": 650,
+    "imageUrl": "images/brosaFluture.png",
+    "details": "Broșă în formă de fluture, decorată cu pietre colorate și email.",
+    "category": "Broșe",
+    "stoc": 10
+  },
+  {
+    "id": "11",
+    "name": "Brățară Tennis",
+    "price": 3200,
+    "imageUrl": "images/brataraTenis.png",
+    "details": "Brățară tip tennis din aur alb de 18K cu diamante.",
+    "category": "Brățări",
+    "stoc": 10
+  },
+  {
+    "id": "12",
+    "name": "Inel Smarald",
+    "price": 5000,
+    "imageUrl": "images/inelSmarald.png",
+    "details": "Inel de aur alb de 18K cu smarald și diamante mici.",
+    "category": "Inele",
+    "stoc": 10
+  },
+  {
+    "id": "13",
+    "name": "Cercei Aur Galben",
+    "price": 850,
+    "imageUrl": "images/cerceiAurGalben.png",
+    "details": "Cercei din aur galben de 14K, simpli și eleganți.",
+    "category": "Cercei",
+    "stoc": 10
+  },
+  {
+    "id": "14",
+    "name": "Colier Topaz",
+    "price": 1400,
+    "imageUrl": "images/colierTopaz.png",
+    "details": "Colier cu pandantiv din topaz albastru, montat pe un lanț din aur alb.",
+    "category": "Coliere",
+    "stoc": 10
+  },
+  {
+    "id": "15",
+    "name": "Broșă Frunză",
+    "price": 550,
+    "imageUrl": "images/brosaFrunza.png",
+    "details": "Broșă în formă de frunză, decorată cu cristale verzi.",
+    "category": "Broșe"
+  },
+  {
+    "id": "16",
+    "name": "Brățară Argint",
+    "price": 450,
+    "imageUrl": "images/brataraArgint.png",
+    "details": "Brățară simplă din argint 925, potrivită pentru orice ținută.",
+    "category": "Brățări",
+    "stoc": 10
+  },
+  {
+    "id": "17",
+    "name": "Inel Peridot",
+    "price": 2300,
+    "imageUrl": "images/inelPeridot.png",
+    "details": "Inel din aur galben de 18K cu piatră peridot și diamante.",
+    "category": "Inele",
+    "stoc": 10
+  },
+  {
+    "id": "18",
+    "name": "Cercei Diamant",
+    "price": 2900,
+    "imageUrl": "images/cerceiDiamantAl.png",
+    "details": "Cercei din aur alb de 18K cu diamante.",
+    "category": "Cercei",
+    "stoc": 10
+  },
+  {
+    "id": "19",
+    "name": "Colier Perle Negre",
+    "price": 3200,
+    "imageUrl": "images/colierPerleNegre.png",
+    "details": "Colier elegant cu perle negre Tahiti, montat pe aur alb de 18K.",
+    "category": "Coliere",
+    "stoc": 10
+  },
+  {
+    "id": "20",
+    "name": "Broșă Camee",
+    "price": 700,
+    "imageUrl": "images/brosaCamee.png",
+    "details": "Broșă vintage cu camee, montată pe aur galben de 14K.",
+    "category": "Broșe",
+    "stoc": 10
+  },
+  {
+    "id": "21",
+    "name": "Brățară Charm",
+    "price": 1100,
+    "imageUrl": "images/brataraCahrm.png",
+    "details": "Brățară din argint 925 cu multiple charmuri decorative.",
+    "category": "Brățări",
+    "stoc": 10
+  },
+  {
+    "id": "22",
+    "name": "Inel Turcoaz",
+    "price": 1700,
+    "imageUrl": "images/inelTruecoaz.png",
+    "details": "Inel din aur galben de 18K cu piatră turcoaz.",
+    "category": "Inele",
+    "stoc": 10
+  },
+  {
+    "id": "23",
+    "name": "Cercei Hoop",
+    "price": 400,
+    "imageUrl": "images/cerceiRotunzi.png",
+    "details": "Cercei tip hoop din argint 925, simpli și moderni.",
+    "category": "Cercei",
+    "stoc": 10
+  },
+  {
+    "id": "24",
+    "name": "Colier Diamant",
+    "price": 3500,
+    "imageUrl": "images/colierDiamantAlb.png",
+    "details": "Colier din aur alb de 18K cu pandantiv diamant.",
+    "category": "Coliere",
+    "stoc": 10
+  },
+  {
+    "id": "25",
+    "name": "Broșă Bijuterie",
+    "price": 950,
+    "imageUrl": "images/brosaAlbastru.png",
+    "details": "Broșă bogat ornamentată, decorată cu pietre prețioase colorate.",
+    "category": "Broșe",
+    "stoc": 10
+  },
+  {
+    "id": "26",
+    "name": "Brățară Cuarț Roz",
+    "price": 750,
+    "imageUrl": "images/brataraRoz.png",
+    "details": "Brățară din argint 925 cu pietre de cuarț roz.",
+    "category": "Brățări",
+    "stoc": 10
+  },
+  {
+    "id": "27",
+    "name": "Inel Ametist",
+    "price": 2100,
+    "imageUrl": "images/inelMoc.png",
+    "details": "Inel din aur alb de 18K cu piatră ametist și diamante.",
+    "category": "Inele",
+    "stoc": 10
+  },
+  {
+    "id": "28",
+    "name": "Cercei Mici Argint",
+    "price": 200,
+    "imageUrl": "images/cerceiArgint.png",
+    "details": "Cercei mici și delicați din argint 925, ideali pentru purtarea zilnică.",
+    "category": "Cercei",
+    "stoc": 10
+  },
+  {
+    "id": "29",
+    "name": "Colier Granat",
+    "price": 1350,
+    "imageUrl": "images/colierGranat.png",
+    "details": "Colier cu pandantiv din granat, montat pe lanț din aur galben de 14K.",
+    "category": "Coliere",
+    "stoc": 10
+  },
+  {
+    "id": "30",
+    "name": "Broșă Luna",
+    "price": 800,
+    "imageUrl": "images/brosaLuna.png",
+    "details": "Broșă vintage în formă de fluture, decorată cu cristale și email colorat.",
+    "category": "Broșe",
+    "stoc": 10
+  }
+]
